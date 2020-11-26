@@ -1,0 +1,6 @@
+schema_version: 20180708
+name: sendmail
+version: 0.0.25
+runtime: python
+entrypoint: /python/bin/fdk /function/sendmail.py handler
+memory: 256
