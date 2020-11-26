@@ -53,7 +53,7 @@ def handler(ctx, data: io.BytesIO = None):
 
 
         # The subject line of the email.
-        SUBJECT = 'Your contract is ready to review and sign'
+        SUBJECT = '새로운 이미지가 업로드 되었습니다.'
         # ECONTRACT_SELLER_NAME = "Seller1"
         # ECONTRACT_SELLER_EMAIL = "seller1@eot.com"
         # ECONTRACT_URL = "https://econtract-apackrsct01.builder.ocp.oraclecloud.com/ic/builder/rt/econtract/1.0/webApps/econtractweb/?uuid=690ef1f4-c419-471a-b6b7-dfab2751735d"
