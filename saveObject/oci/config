@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa4im7bmydkh25qeph3ukyqcugpa3uvev5226qpgc6w5ewequbm5gq
+fingerprint=55:f5:bc:03:04:e1:3d:a1:35:87:21:e1:e3:d4:0c:29
+key_file=./oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaa4wedakimbtmbsx4lrxaycjbp5ksdoiwayk4qr4pahgbo3an6k4q
+region=ap-seoul-1
